@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1549891497413" clover="3.2.0">
+  <project timestamp="1549891497413" name="All files">
+    <metrics statements="135" coveredstatements="43" conditionals="34" coveredconditionals="7" methods="63" coveredmethods="9" elements="232" coveredelements="59" complexity="0" loc="135" ncloc="135" packages="3" files="15" classes="15">
+      <package name="api">
+        <metrics statements="34" coveredstatements="6" conditionals="11" coveredconditionals="1" methods="20" coveredmethods="2"/>
+        <file name="index.js" path="/Users/marcusstridfalt/Desktop/Ex/src/api/index.js">
+          <metrics statements="34" coveredstatements="6" conditionals="11" coveredconditionals="1" methods="20" coveredmethods="2"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+          <line num="47" count="0" type="stmt"/>
+          <line num="48" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+          <line num="56" count="0" type="stmt"/>
+          <line num="57" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="66" count="0" type="stmt"/>
+          <line num="76" count="0" type="stmt"/>
+          <line num="77" count="0" type="stmt"/>
+          <line num="81" count="0" type="stmt"/>
+          <line num="85" count="0" type="stmt"/>
+          <line num="86" count="0" type="stmt"/>
+          <line num="87" count="0" type="stmt"/>
+          <line num="91" count="1" type="stmt"/>
+          <line num="92" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="93" count="1" type="stmt"/>
+          <line num="95" count="0" type="stmt"/>
+          <line num="96" count="0" type="stmt"/>
+          <line num="100" count="0" type="stmt"/>
+          <line num="101" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="105" count="1" type="stmt"/>
+          <line num="106" count="1" type="stmt"/>
+          <line num="110" count="0" type="stmt"/>
+          <line num="113" count="2" type="stmt"/>
+          <line num="129" count="0" type="stmt"/>
+          <line num="130" count="0" type="stmt"/>
+          <line num="131" count="0" type="stmt"/>
+          <line num="132" count="0" type="stmt"/>
+          <line num="133" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="components">
+        <metrics statements="75" coveredstatements="30" conditionals="19" coveredconditionals="6" methods="30" coveredmethods="7"/>
+        <file name="App.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/App.js">
+          <metrics statements="9" coveredstatements="1" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="1"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="37" count="1" type="stmt"/>
+        </file>
+        <file name="AvatarSelector.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/AvatarSelector.js">
+          <metrics statements="10" coveredstatements="8" conditionals="6" coveredconditionals="3" methods="1" coveredmethods="1"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="12" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="15" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="28" count="1" type="stmt"/>
+        </file>
+        <file name="Button.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Button.js">
+          <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="25" count="1" type="stmt"/>
+        </file>
+        <file name="Comments.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Comments.js">
+          <metrics statements="10" coveredstatements="1" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="0"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="52" count="1" type="stmt"/>
+        </file>
+        <file name="CreateNewComment.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/CreateNewComment.js">
+          <metrics statements="9" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="51" count="1" type="stmt"/>
+        </file>
+        <file name="CreateNewPost.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/CreateNewPost.js">
+          <metrics statements="11" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+          <line num="36" count="1" type="stmt"/>
+        </file>
+        <file name="PersonaSwitcher.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/PersonaSwitcher.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="31" count="1" type="stmt"/>
+        </file>
+        <file name="Posts.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Posts.js">
+          <metrics statements="9" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="27" count="1" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="37" count="1" type="stmt"/>
+          <line num="49" count="1" type="stmt"/>
+        </file>
+        <file name="SingleComment.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/SingleComment.js">
+          <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+        </file>
+        <file name="SinglePost.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/SinglePost.js">
+          <metrics statements="4" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="28" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="components.Bot">
+        <metrics statements="26" coveredstatements="7" conditionals="4" coveredconditionals="0" methods="13" coveredmethods="0"/>
+        <file name="Bot.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Bot/Bot.js">
+          <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+        </file>
+        <file name="Message.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Bot/Message.js">
+          <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+        </file>
+        <file name="MessageForm.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Bot/MessageForm.js">
+          <metrics statements="8" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="42" count="1" type="stmt"/>
+        </file>
+        <file name="TypingIndicator.js" path="/Users/marcusstridfalt/Desktop/Ex/src/components/Bot/TypingIndicator.js">
+          <metrics statements="4" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
